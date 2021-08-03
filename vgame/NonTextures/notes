@@ -1,0 +1,7 @@
+* movement speed is extremely fast.
+	* find a way to utilize the tick and mapx/y
+	  to find a proper speed.
+
+ - NPCs will have set pixel locations on the map
+   png and can then be drawn and set accordingly 
+   just like a 64x texture would
